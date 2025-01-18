@@ -1,0 +1,16 @@
+{
+    "name": "my-zkapp",
+    "version": "1.0.0",
+    "description": "A zero-knowledge application (zkApp) implemented using O1js.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "author": "valortin",
+    "license": "MIT",
+    "dependencies": {
+      "o1js": "^latest"
+    }
+  }
+  
