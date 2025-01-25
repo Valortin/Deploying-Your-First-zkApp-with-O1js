@@ -40,7 +40,6 @@ my-zkapp/
 
 - Basic knowledge of JavaScript (ES6) and an IDE like Visual Studio Code.
 
----
 
 ## Setup Instructions
 
